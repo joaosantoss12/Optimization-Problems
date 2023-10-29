@@ -1,6 +1,6 @@
 # Optimization-Problems
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img style="width:5%; height:auto" src="https://skillicons.dev/icons?i=c" />
   </a>
