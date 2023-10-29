@@ -1,4 +1,4 @@
-# Optimization-Problems <img style="vertical-align:middle" src="https://skillicons.dev/icons?i=c" />
+# <div>Optimization-Problems <img style="vertical-align:middle" src="https://skillicons.dev/icons?i=c" /></div>
 
 Programms to solve Optimization Problems using Hill-Climbing method or Evolutionary-Algorithm method.
 
